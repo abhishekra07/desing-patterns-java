@@ -1,8 +1,6 @@
-package com.java.design.pattern.observer.observer;
+package com.java.design.pattern.behavioral.observer.observer;
 
-import com.java.design.pattern.observer.observable.StockObservable;
-
-import javax.management.NotificationFilter;
+import com.java.design.pattern.behavioral.observer.observable.StockObservable;
 
 public class SMSNotificationObserver implements NotificationObserver {
 

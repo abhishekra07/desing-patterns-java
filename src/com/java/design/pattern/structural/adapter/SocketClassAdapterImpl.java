@@ -1,8 +1,4 @@
-package com.java.design.pattern;
-
-import com.java.design.pattern.adapter.Socket;
-import com.java.design.pattern.adapter.SocketAdapter;
-import com.java.design.pattern.adapter.Volt;
+package com.java.design.pattern.structural.adapter;
 
 //Using inheritance for adapter pattern
 public class SocketClassAdapterImpl extends Socket implements SocketAdapter {

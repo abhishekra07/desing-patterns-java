@@ -1,6 +1,6 @@
-package com.java.design.pattern.observer.observer;
+package com.java.design.pattern.behavioral.observer.observer;
 
-import com.java.design.pattern.observer.observable.StockObservable;
+import com.java.design.pattern.behavioral.observer.observable.StockObservable;
 
 public class EmailNotificationObserver implements NotificationObserver {
 

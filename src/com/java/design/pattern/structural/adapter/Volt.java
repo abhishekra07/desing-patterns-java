@@ -1,4 +1,4 @@
-package com.java.design.pattern.adapter;
+package com.java.design.pattern.structural.adapter;
 public class Volt {
     private int volts;
 

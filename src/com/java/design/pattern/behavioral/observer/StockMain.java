@@ -1,10 +1,10 @@
-package com.java.design.pattern.observer;
+package com.java.design.pattern.behavioral.observer;
 
-import com.java.design.pattern.observer.observable.DellLaptopObservale;
-import com.java.design.pattern.observer.observable.StockObservable;
-import com.java.design.pattern.observer.observer.EmailNotificationObserver;
-import com.java.design.pattern.observer.observer.NotificationObserver;
-import com.java.design.pattern.observer.observer.SMSNotificationObserver;
+import com.java.design.pattern.behavioral.observer.observable.DellLaptopObservale;
+import com.java.design.pattern.behavioral.observer.observable.StockObservable;
+import com.java.design.pattern.behavioral.observer.observer.EmailNotificationObserver;
+import com.java.design.pattern.behavioral.observer.observer.NotificationObserver;
+import com.java.design.pattern.behavioral.observer.observer.SMSNotificationObserver;
 
 public class StockMain {
     public static void main(String[] args) {
